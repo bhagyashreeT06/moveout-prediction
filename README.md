@@ -1,14 +1,14 @@
-# moveout-prediction
+# Moveout Prediction
 Hackathon 2023 project
 
-# Requirements
+# Language and Tools Used
   * Python
+  * PySpark
+  * Jupyter Notebook
   
 # Python Packages used
 
 ```
-  * notebook
-  * pyspark
   * openpyxl
   * findspark
   * pandas
