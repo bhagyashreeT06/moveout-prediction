@@ -20,7 +20,8 @@ Hackathon 2023 project
 # Used ML Model
 
 ```
-  * plotly
+  * Weibull Distribution
+  * Survival Regression
 ```
 
 # Contributors
