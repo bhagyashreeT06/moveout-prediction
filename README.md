@@ -17,13 +17,13 @@ Hackathon 2023 project
   * ipython-sql
 ```
 
-# For Survival Analysis
+# Used ML Model
 
 ```
   * plotly
 ```
 
-# Resources working on this project
+# Contributors
 
 ```
   * Brian Astle
