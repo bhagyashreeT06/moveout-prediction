@@ -4,7 +4,7 @@ Hackathon 2023 project
 # Requirements
   * Python
   
-# For development following tools were installed.
+# Python Packages used
 
 ```
   * notebook
