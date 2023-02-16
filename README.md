@@ -12,9 +12,9 @@ Moveout prediction model will try to predict the moveout probability/percentage 
   * openpyxl
   * findspark
   * pandas
-  * SQLAlchemy
-  * psycopg2
   * ipython-sql
+  * lifline
+  * matplotlib
 ```
 
 # Accelerated Failure Time Parametric Regression Model
